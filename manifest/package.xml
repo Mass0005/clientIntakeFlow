@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <!--<types>
+        <members>Case</members>
+        <name>CustomObject</name>
+    </types>-->
+    <types>
+        <members>Case.Main_Parent_Case__c</members>
+        <name>CustomField</name>
+    </types>
+    <!--<types>
+        <members>*</members>
+        <name>Layout</name>
+    </types>-->
+    <types>
+        <members>Assigning_ParentId_in_Child_case</members>
+        <name>Flow</name>
+    </types>
+    
+    <version>59.0</version>
+</Package>
